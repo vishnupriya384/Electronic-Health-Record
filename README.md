@@ -14,5 +14,6 @@ PCOS affects many women globally and early detection is crucial. This project ai
 - Exploratory Data Analysis (EDA) of PCOS-related variables
 - Machine Learning model to predict PCOS likelihood
 - Web application with a user-friendly predictor
-- Blog section for awareness and information
 - Clean, minimal UI (BloomCheck)
+## BloomCheck!
+https://vishnupriya010.pythonanywhere.com/
